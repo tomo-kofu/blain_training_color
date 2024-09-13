@@ -22,7 +22,7 @@
 
 ## インストール
 
-1. git cloneしてください。
+1. git clone、または、ZIPダウンロードしてください。
 2. [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code)を事前にインストールください。
 3. Pythonをインストールしてください。
 
