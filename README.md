@@ -22,7 +22,7 @@
 
 ## インストール
 
-1. git clone、または、ZIPダウンロードしてください。
+1. git clone、または、ZIPダウンロード＆解凍してください。
 2. [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code)を事前にインストールください。
 3. Pythonをインストールしてください。
 
@@ -35,7 +35,7 @@ VSCodeやPythonが不要であればアンインストールしてください�
 
 ## 使い方
 
-VSCodeでgit cloneしたフォルダを開いてください。
+VSCodeでgit clone等したフォルダを開いてください。
 Python Debugで「」のファイルをVSCode上で実行ください。(コマンドプロンプトで実行しても色が正しくつかなかったです。)
 表示される４色の番号と色に対し、指定された色を番号で当ててください。（文字に騙されないでください）
 １００問終われば、正解数やかかった時間が表示されます。
