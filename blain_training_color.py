@@ -91,7 +91,10 @@ def __main__():
             elif result_color_map[key] == color_yellow:
                 print(end = color_id.YELLOW + str(key) + ": " + disp_sorted_dic[key] + ", " + color_id.END)
         print("which number is " + color_map[question_id] + " color ?")
-        in_result = int(input())
+        try:
+            in_result = int(input())
+        except Exception as e:
+            in_result = 0
         if (result_color_id == in_result):
             ok_count += 1
         else:
